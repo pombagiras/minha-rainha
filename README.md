@@ -2,8 +2,6 @@
 
 Um quiz denso, atmosférico e bem macabro sobre as rainhas da encruzilhada, com estética gótica pesada, velas tremulando no código e pétalas de rosa caindo eternamente na tela.
 
-https://user-images.githubusercontent.com/999999999/999999999-sample.gif  
-*(se tiver gif/vídeo de demonstração, colocar aqui depois)*
 
 ## Características principais
 
@@ -48,3 +46,6 @@ https://user-images.githubusercontent.com/999999999/999999999-sample.gif
 1. Clone o repositório
    ```bash
    git clone https://github.com/seu-usuario/quiz-pombagiras-gotico.git
+
+   
+Boa gira e boa sorte no ritual digital! ✨
